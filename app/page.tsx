@@ -130,6 +130,8 @@ const Home = () => {
   );
 };
 
+export default Home;
+
 type AnimatedTextProps = {
   text: string | string[];
   el?: keyof JSX.IntrinsicElements;
@@ -225,5 +227,3 @@ export const AnimatedText = ({
     </Wrapper>
   );
 };
-
-export default Home;
