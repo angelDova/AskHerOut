@@ -37,7 +37,7 @@ const YesPage = () => {
         "/images/IMG_20.jpg",
       ]}
     >
-      <div className="flex flex-col min-h-screen items-center justify-center h-[100vh] bg-[#A2E5E8] p-24 ">
+      <div className="flex flex-col min-h-screen items-center justify-center h-[100vh] bg-[#A2E5E8] p-24">
         <div className="">
           <h1 className="text-5xl font-bold text-white text-center mt-[20px] mb-0">
             Yeeeyyyy!!
