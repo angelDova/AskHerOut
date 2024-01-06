@@ -9,7 +9,7 @@ import { useConfettiStore } from "@/hooks/use-confetti-store";
 import { toast } from "sonner";
 import { Variant, motion, useAnimation, useInView } from "framer-motion";
 
-export const Home = () => {
+const Home = () => {
   const router = useRouter();
   const confetti = useConfettiStore();
   const [isLoading, setIsLoading] = useState(false);
