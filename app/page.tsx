@@ -84,9 +84,9 @@ export default function Home() {
   };
 
   return (
-    <main className="flex min-h-screen items-center justify-center h-[100vh] bg-[#A2E5E8] lg:p-24">
-      <div className="">
-        <h1 className="text-5xl font-bold text-white text-center mt-[20px] mb-0">
+    <main className="flex min-h-screen items-center justify-center h-[100vh] bg-[#A2E5E8] lg:p-20 p-12">
+      <div className="mb-16">
+        <h1 className="text-5xl font-bold text-white text-center mt-[10px] mb-0">
           Will you be my girlfriend?
         </h1>
         <div className="flex items-center justify-center">
